@@ -1,0 +1,9 @@
+name: 'Field Group Link'
+type: module
+description: 'Field group link.'
+package : Fields
+version: VERSION
+core: 8.x
+dependencies:
+  - field
+  - field_group
